@@ -1,7 +1,3 @@
-[user]
-  email = ahn.jeff@gmail.com
-  name = Jeff Ahn
-
 [core]
   autocrlf = input
   whitespace = cr-at-eol
